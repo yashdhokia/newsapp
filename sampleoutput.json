@@ -1,0 +1,175 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+            "source": {
+                "id": "handelsblatt",
+                "name": "Handelsblatt"
+            },
+            "author": "Elisabeth Atzler",
+            "title": "Inflation: Sparkassen fordern die EZB zum Umsteuern auf",
+            "description": "Sparkassenpräsident Helmut Schleweis fürchtet längerfristig höheren Preisdruck. Die Europäische Zentralbank müsse noch in diesem Jahr die Leitzinsen erhöhen.",
+            "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/inflation-und-negativzinsen-schleichende-entreicherung-der-mittelschicht-sparkassen-fordern-die-ezb-zum-umsteuern-auf/28031042.html",
+            "urlToImage": "https://www.handelsblatt.com/images/helmut-schleweis/28031060/4-format2003.jpg",
+            "publishedAt": "2022-02-02T14:10:57+00:00",
+            "content": "Frankfurt Die Sparkassen rechnen mit einer anhaltend hohen Inflation. In deutlichen Worten betont Sparkassenpräsident Helmut Schleweis das Risiko, dass uns der höhere Preisdruck länger erhalten bleib… [+3483 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Lwandile Bhengu",
+            "title": "JUST IN | Absa engineer and wife accused of stealing over R100m from bank granted bail",
+            "description": "A former Absa employee and his wife who are charged with stealing over R100 million from the bank have been granted R50 000 bail each.",
+            "url": "https://www.news24.com/news24/southafrica/news/just-in-absa-engineer-and-wife-accused-of-stealing-over-r100m-from-bank-granted-bail-20220202",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/2668/b0bdc4aa3f1b4748971d463fa527c9d4.jpg",
+            "publishedAt": "2022-02-02T14:05:15+00:00",
+            "content": "<ul><li>Xolela Masebeni and his wife Athembile Mpani are accused of stealing R103 million from Absa.</li><li>They are alleged to have spent the money on luxury shopping sprees and several cars.</li><… [+3692 chars]"
+        },
+        {
+            "source": {
+                "id": "wirtschafts-woche",
+                "name": "Wirtschafts Woche"
+            },
+            "author": "Wirtschaftswoche",
+            "title": "Inflation im Euro-Raum: Inflationsrate übersteigt EZB-Prognose",
+            "description": "Die Waren und Dienstleistungen im Euro-Raum werden immer teurer: laut Eurostat um durchschnittlich über 5 Prozent binnen Jahresfrist. Das Ziel der Europäischen Zentralbank scheint immer weiter in weite Ferne zu rücken.",
+            "url": "https://www.wiwo.de/politik/konjunktur/inflation-im-euro-raum-nackenschlag-fuer-die-ezb/28031544.html",
+            "urlToImage": "https://www.wiwo.de/images/inflation-europa/28031552/1-format11240.jpg",
+            "publishedAt": "2022-02-02T12:02:00+00:00",
+            "content": "Explodierende Energiepreise haben die Inflation im Euro-Raum zu Jahresbeginn auf ein neues Rekordhoch getrieben. Im Januar verteuerten sich Waren und Dienstleistungen durchschnittlich um 5,1 Prozent … [+2755 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Record euro zone inflation piles pressure on ECB",
+            "description": "Euro zone inflation rose to a new record high last month, defying expectations for a big drop and piling pressure on the European Central Bank to finally admit that price growth is not as temporary and benign as it has long predicted.",
+            "url": "https://www.reuters.com/world/europe/euro-zone-inflation-unexpectedly-hits-new-record-high-2022-02-02/",
+            "urlToImage": "https://www.reuters.com/resizer/TghnGquPd1GXQqWWrzicLaBnD1w=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/H3V6CVUWKFMVHCEKNJED3ULYCU.jpg",
+            "publishedAt": "2022-02-02T11:20:46Z",
+            "content": "FRANKFURT, Feb 2 (Reuters) - Euro zone inflation rose to a new record high last month, defying expectations for a big drop and piling pressure on the European Central Bank to finally admit that price… [+3756 chars]"
+        },
+        {
+            "source": {
+                "id": "rtl-nieuws",
+                "name": "RTL Nieuws"
+            },
+            "author": "RTL Nieuws",
+            "title": "Pedoactivist Nelson M. heeft asiel aangevraagd in Mexico",
+            "description": "Nelson M., de beruchte pedoseksuele activist, heeft asiel aangevraagd in Mexico. Dat heeft zijn advocaat vanmorgen laten weten aan de rechtbank, waar M. samen met nog twee anderen terechtstaat voor het voortzetten van de verboden vereniging Martijn.",
+            "url": "https://www.rtlnieuws.nl/nieuws/nederland/artikel/5285313/nelson-m-martijn-pedoactivist-pedoseksualiteit-mexico-asiel",
+            "urlToImage": "https://www.rtlnieuws.nl/sites/default/files/content/images/2020/02/20/slack-imgs.jpg?itok=Yrj5mge-&offsetX=0&offsetY=0&cropWidth=1598&cropHeight=899&width=2048&height=1152&impolicy=dynamic",
+            "publishedAt": "2022-02-02T11:07:58+00:00",
+            "content": "Afgelopen jaar werd hij gearresteerd voor het bezit van kinderporno. Zijn proces mocht hij in vrijheid afwachten, waarna hij het land ontvluchtte. Op sociale media noemde hij zich sindsdien 'Dutch re… [+214 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "The AFR View",
+            "title": "Reserve Bank’s Philip Lowe opens door to interest rate increases",
+            "description": "After putting some monetary policy flexibility back on the table, Australia’s well-respected central bank has the chance to come through this extraordinary period with its policy credibility intact.",
+            "url": "http://www.afr.com/policy/economy/rba-opens-door-to-winding-back-dirt-cheap-money-20220201-p59t05",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3968%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_154/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/542b1ca384d430e4b00aaa6577a0579fba7c6190",
+            "publishedAt": "2022-02-02T08:29:31Z",
+            "content": "On Wednesday, after his first speech for the year, Dr Lowe agreed that it was a plausible scenario that the cash rate could rise in 2022.\r\nBoth the federal government and the central bank need to be … [+2417 chars]"
+        },
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Jennifer Hewett",
+            "title": "Reserve Bank governor Philip Lowe plays the waiting game",
+            "description": "The Reserve Bank governor concedes the economy might continue to surprise in 2022 – and that will be good news even if it damages the bank’s forecasting credibility.",
+            "url": "http://www.afr.com/policy/economy/phil-lowe-plays-the-waiting-game-20220202-p59t7t",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.1902%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_opinion_no_age_social_wm/3db8991dd73251989ed1c04c0b70b3ab80ef2858",
+            "publishedAt": "2022-02-02T06:25:15Z",
+            "content": "Not that the Reserve Bank governor is trying to hide from the obvious catch. The banks forecasts about the pace and timing of the countrys falling unemployment as well as rising inflation rates have … [+4410 chars]"
+        },
+        {
+            "source": {
+                "id": "fortune",
+                "name": "Fortune"
+            },
+            "author": "Ryan Gellert",
+            "title": "Patagonia CEO: Banks need to stop financing the climate crisis. Here’s how other companies can help make that happen",
+            "description": "When your company deposits money in a bank, the bank can lend it to finance fossil fuels. Patagonia CEO Ryan Gellert says it's time to draw the line.",
+            "url": "https://fortune.com/2022/02/01/patagonia-ceo-climate-change-banks-fossil-fuel-lending/",
+            "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/02/GettyImages-1149592360-e1643741883461.jpg?resize=1200,600",
+            "publishedAt": "2022-02-01T22:30:00Z",
+            "content": "Skip to Content"
+        },
+        {
+            "source": {
+                "id": "the-globe-and-mail",
+                "name": "The Globe And Mail"
+            },
+            "author": "James Bradshaw",
+            "title": "Big banks’ credit-card profits slow to recover as Canadians carry lower balances",
+            "description": "For consumers carrying large debts, some paid off their card balances altogether. But for banks, that has taken a bite out of a lucrative source of profits",
+            "url": "https://www.theglobeandmail.com/business/article-big-banks-credit-card-profits-slow-to-recover-as-canadians-carry-lower/",
+            "urlToImage": "https://www.theglobeandmail.com/resizer/2IKAjO7djBiy89uIIXRA3nU2ImE=/1200x800/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/B22RRPTTCFC2PMLWZP4JRMIDHI.jpg",
+            "publishedAt": "2022-02-01T21:49:29Z",
+            "content": "Balances that generate interest for banks arent rebounding at the same pace as consumer spending, and arent likely to regain lost ground any time soon.Chris Graythen/Getty Images\r\nCanadas big banks h… [+6688 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Gene Ludwig",
+            "title": "Opinion | Here’s How to Save Minority-Owned Banks From Extinction",
+            "description": "Washington needs to create a new safety net for such lenders — not squeeze them out of business.",
+            "url": "https://www.politico.com/news/agenda/2022/01/19/minority-owned-banks-527315",
+            "urlToImage": "https://static.politico.com/8d/f3/cdf3870b47499ce4fcf63866ee0c/mag-6827668911-6a31c3fda1-o-2.jpg",
+            "publishedAt": "2022-01-19T19:00:57+00:00",
+            "content": "Lost in the middle are those of us who believe that providing financial services to people who live in more modest and minority communities requires both the savvy to understand which applications ar… [+6083 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "How an unknown buyout firm pulled off a $4.5bn deal with a novel structure",
+            "description": "Former Lazard banker Antonio Weiss teamed up with Qualcomm to acquire Dutch auto parts group",
+            "url": "https://www.ft.com/content/254d8ce3-de74-43f5-8cb9-3bbaa23d8c84",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6911a1b7-ec26-466d-8523-a03797127ea2.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2021-12-14T06:22:25.3206587Z",
+            "content": "This week shareholders of Veoneer, a Dutch auto parts maker listed in the US, are expected to approve a $4.5bn takeover that pays them a lofty 85 per cent premium to the company’s pre-deal trading pr… [+6297 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": null,
+            "title": "The return of inflation: crunch time for the European Central Bank",
+            "description": "The ECB has sounded more dovish than most central banks. But rising prices and Covid are putting it under growing pressure",
+            "url": "https://www.ft.com/content/e01ce60c-f602-4110-bb64-7fd60689b099",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F975439dc-ed35-46c9-bd02-126fb5c17c2b.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2021-12-14T06:22:20.4937354Z",
+            "content": "As Christine Lagarde unveiled plans last week to redesign euro banknotes for the first time since their launch two decades ago, the European Central Bank president said they were “a tangible and visi… [+15887 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "Spiegel Online",
+            "title": "Grünen-Kandidatin Fegebank vor der Hamburg-Wahl: Die Erste Bürgermeisterin",
+            "description": "Die einzigen Landtagswahlen 2020 finden in Hamburg statt. Katharina Fegebank will sie für die Grünen gewinnen. Die Spitzenkandidatin tritt mit einem eher konservativen Programm an: \"Zukunft baut auf Tradition auf\".",
+            "url": "http://www.spiegel.de/politik/deutschland/katharina-fegebank-hamburg-soll-gruen-werden-a-1303937.html",
+            "urlToImage": "https://cdn1.spiegel.de/images/image-1503795-860_poster_16x9-ldop-1503795.jpg",
+            "publishedAt": "2020-01-07T20:23:34Z",
+            "content": "Dienstag, 07.01.2020  \r\n21:23 Uhr\r\nEs sei, sagt Katharina Fegebank, \"der vielleicht schönste Ort hier in Hamburg\". Der Himmel ist grau, drüben am anderen Ufer ragen Hafenkräne in die Höhe, hinter ihr… [+5650 chars]"
+        }
+    ]
+}
